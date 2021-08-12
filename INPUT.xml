@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Data>
+  <Component>
+    <Characteristic Id="MHX_U2_XXX102" System="DIN4000">
+      <CCTMS>KMT</CCTMS>
+      <CCFMS>01</CCFMS>
+      <CZCMS>0800</CZCMS>
+      <CCUMS>1</CCUMS>
+      <CCSMS>5</CCSMS>
+      <CCTWS>AIF</CCTWS>
+      <CCFWS>01</CCFWS>
+      <CZCWS>0810</CZCWS>
+      <CCUWS>0</CCUWS>
+      <CCSWS>5</CCSWS>
+      <LTA>65</LTA>
+      <WTA>0</WTA>
+      <HTA>0</HTA>
+      <TSYC>618102</TSYC>
+      <LF>65</LF>
+      <LPR>65</LPR>
+      <DF>80</DF>
+      <BD1>81</BD1>
+      <LBD1>40</LBD1>
+      <BD2>50</BD2>
+      <CNSC>0</CNSC>
+      <CXSC>0</CXSC>
+      <PENDP>0</PENDP>
+      <BLDEV>0</BLDEV>
+      <RPMX>6000</RPMX>
+      <ADJARP>0</ADJARP>
+      <LAM>0</LAM>
+      <TCMC>0</TCMC>
+      <DCP>0</DCP>
+      <LPCON>22</LPCON>
+      <CPXD>76</CPXD>
+      <CPXL>0</CPXL>
+      <DF_EXTENSION>False</DF_EXTENSION>
+      <TSYC_MS>618</TSYC_MS>
+      <TSYC_WS>102</TSYC_WS>
+      <TRENNST_MS>240300</TRENNST_MS>
+      <Z_SPIN_OFF>False</Z_SPIN_OFF>
+    </Characteristic>
+  </Component>
+</Data>

@@ -1,0 +1,9 @@
+C:\Users\agresta\Desktop\XMLReader2\bin\Debug\XMLReader2.exe.config
+C:\Users\agresta\Desktop\XMLReader2\bin\Debug\XMLReader2.exe
+C:\Users\agresta\Desktop\XMLReader2\bin\Debug\XMLReader2.pdb
+C:\Users\agresta\Desktop\XMLReader2\obj\Debug\XMLReader2.csprojAssemblyReference.cache
+C:\Users\agresta\Desktop\XMLReader2\obj\Debug\XMLReader2.Form1.resources
+C:\Users\agresta\Desktop\XMLReader2\obj\Debug\XMLReader2.Properties.Resources.resources
+C:\Users\agresta\Desktop\XMLReader2\obj\Debug\XMLReader2.csproj.GenerateResource.cache
+C:\Users\agresta\Desktop\XMLReader2\obj\Debug\XMLReader2.exe
+C:\Users\agresta\Desktop\XMLReader2\obj\Debug\XMLReader2.pdb
